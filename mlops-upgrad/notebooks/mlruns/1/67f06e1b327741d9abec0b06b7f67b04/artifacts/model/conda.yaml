@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip
+- pip:
+  - mlflow
+  - pycaret==2.3.8
+name: advance_baseline_try2-env

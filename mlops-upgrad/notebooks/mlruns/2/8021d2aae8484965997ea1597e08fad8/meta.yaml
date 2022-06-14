@@ -1,0 +1,15 @@
+artifact_uri: file:///usr/local/google/home/lavinigam/Documents/projects/mlops/mlops-upgrad/mlops-upgrad/notebooks/mlruns/2/8021d2aae8484965997ea1597e08fad8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 8021d2aae8484965997ea1597e08fad8
+run_uuid: 8021d2aae8484965997ea1597e08fad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655204814075
+status: 1
+tags: []
+user_id: lavinigam
